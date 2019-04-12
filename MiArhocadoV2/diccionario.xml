@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_201" class="java.beans.XMLDecoder">
+ <object class="Entidades.Diccionario" id="Diccionario0">
+  <void property="lista">
+   <void method="add">
+    <object class="Entidades.Palabras">
+     <void property="descripcion">
+      <string>lugar donde se habita</string>
+     </void>
+     <void property="nivel">
+      <int>1</int>
+     </void>
+     <void property="palabra">
+      <string>casa</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="Entidades.Palabras">
+     <void property="descripcion">
+      <string>Herramienta para golpear</string>
+     </void>
+     <void property="nivel">
+      <int>2</int>
+     </void>
+     <void property="palabra">
+      <string>martillo</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="Entidades.Palabras">
+     <void property="descripcion">
+      <string>Astro o cuerpo celeste que brilla con luz propia en el firmamento.</string>
+     </void>
+     <void property="nivel">
+      <int>3</int>
+     </void>
+     <void property="palabra">
+      <string>estrella</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="Entidades.Palabras">
+     <void property="descripcion">
+      <string>Cuerpo celeste sólido que gira alrededor de una estrella y que no emite luz propia.</string>
+     </void>
+     <void property="nivel">
+      <int>3</int>
+     </void>
+     <void property="palabra">
+      <string>planeta</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="Entidades.Palabras">
+     <void property="descripcion">
+      <string>Parte central del sistema nervioso de los vertebrados, encerrada y protegida en la cavidad cranea.</string>
+     </void>
+     <void property="nivel">
+      <int>3</int>
+     </void>
+     <void property="palabra">
+      <string>cerebro</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="Entidades.Palabras">
+     <void property="descripcion">
+      <string>Mamífero carnívoro doméstico de la familia de los cánidos.</string>
+     </void>
+     <void property="nivel">
+      <int>1</int>
+     </void>
+     <void property="palabra">
+      <string>perro</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="Entidades.Palabras">
+     <void property="descripcion">
+      <string>Asiento individual con patas y respaldo.</string>
+     </void>
+     <void property="nivel">
+      <int>1</int>
+     </void>
+     <void property="palabra">
+      <string>silla</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="Entidades.Palabras">
+     <void property="descripcion">
+      <string>Mueble sobre el que se coloca un colchón, almohadas y sirve para dormir.</string>
+     </void>
+     <void property="nivel">
+      <int>1</int>
+     </void>
+     <void property="palabra">
+      <string>cama</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="Entidades.Palabras">
+     <void property="descripcion">
+      <string>Aparato para calentar un recinto .</string>
+     </void>
+     <void property="nivel">
+      <int>2</int>
+     </void>
+     <void property="palabra">
+      <string>estufa</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="Entidades.Palabras">
+     <void property="descripcion">
+      <string>Aparato que se utiliza para calentar y cocinar alimentos.</string>
+     </void>
+     <void property="nivel">
+      <int>2</int>
+     </void>
+     <void property="palabra">
+      <string>cocina</string>
+     </void>
+    </object>
+   </void>
+  </void>
+ </object>
+</java>
